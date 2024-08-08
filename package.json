@@ -1,0 +1,23 @@
+{
+  "name": "lock-learner-multiplayer-server",
+  "version": "1.0.0",
+  "description": "an express server to facilitate multiplayer matches for the lock-learner game",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timdobranski/lock-learner-multiplayer-server.git"
+  },
+  "author": "Tim Dobranski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timdobranski/lock-learner-multiplayer-server/issues"
+  },
+  "homepage": "https://github.com/timdobranski/lock-learner-multiplayer-server#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
