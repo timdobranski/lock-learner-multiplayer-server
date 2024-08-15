@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/timdobranski/lock-learner-multiplayer-server#readme",
   "dependencies": {
-    "express": "^4.19.2"
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5",
+    "uuid": "^10.0.0"
   }
 }
